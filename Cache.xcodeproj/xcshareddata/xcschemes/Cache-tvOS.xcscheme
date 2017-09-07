@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "215DB4E01DC379F800034124"
-               BuildableName = "Cache-tvOS.framework"
+               BuildableName = "Cache.framework"
                BlueprintName = "Cache-tvOS"
                ReferencedContainer = "container:Cache.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "215DB4E01DC379F800034124"
-            BuildableName = "Cache-tvOS.framework"
+            BuildableName = "Cache.framework"
             BlueprintName = "Cache-tvOS"
             ReferencedContainer = "container:Cache.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "215DB4E01DC379F800034124"
-            BuildableName = "Cache-tvOS.framework"
+            BuildableName = "Cache.framework"
             BlueprintName = "Cache-tvOS"
             ReferencedContainer = "container:Cache.xcodeproj">
          </BuildableReference>

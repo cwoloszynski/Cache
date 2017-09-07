@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "215DB4ED1DC37A0100034124"
-               BuildableName = "Cache-watchOS.framework"
+               BuildableName = "Cache.framework"
                BlueprintName = "Cache-watchOS"
                ReferencedContainer = "container:Cache.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "215DB4ED1DC37A0100034124"
-            BuildableName = "Cache-watchOS.framework"
+            BuildableName = "Cache.framework"
             BlueprintName = "Cache-watchOS"
             ReferencedContainer = "container:Cache.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "215DB4ED1DC37A0100034124"
-            BuildableName = "Cache-watchOS.framework"
+            BuildableName = "Cache.framework"
             BlueprintName = "Cache-watchOS"
             ReferencedContainer = "container:Cache.xcodeproj">
          </BuildableReference>
