@@ -248,9 +248,10 @@
 				TargetAttributes = {
 					21256E291CEA6CCD003B9F67 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 676PZY29MZ;
+						DevelopmentTeam = 936EKNL558;
 						DevelopmentTeamName = "Canvas Labs, Inc.";
 						LastSwiftMigration = 0800;
+						ProvisioningStyle = Automatic;
 					};
 					215DB4E01DC379F800034124 = {
 						CreatedOnToolsVersion = 8.1;
@@ -476,7 +477,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = 936EKNL558;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -485,6 +488,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.samsoffes.cache;
 				PRODUCT_NAME = Cache;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -493,7 +497,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				APPLICATION_EXTENSION_API_ONLY = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = 936EKNL558;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -502,6 +508,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.samsoffes.cache;
 				PRODUCT_NAME = Cache;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 			};
@@ -674,6 +681,7 @@
 				215DB4E81DC379F800034124 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		215DB4F31DC37A0100034124 /* Build configuration list for PBXNativeTarget "Cache-watchOS" */ = {
 			isa = XCConfigurationList;
@@ -682,6 +690,7 @@
 				215DB4F51DC37A0100034124 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		21B5054A1CFF9E610067FB9A /* Build configuration list for PBXNativeTarget "Cache-macOS" */ = {
 			isa = XCConfigurationList;
